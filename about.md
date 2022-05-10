@@ -11,8 +11,8 @@ layout: page
 
 <ul class="skill-list">
 	<li>Data Analysis: R & Stata for statistical and text analysis</li>
-	<li>Data Collection: Webscraping & APIs</li>
-	<li>Qualitative Methods: participatory research, in-depth interviews & ethnographic observation (in-person and digital)</li>
+	<li>Data Collection: webscraping & APIs</li>
+	<li>Qualitative Methods: participatory Research, focus groups & ethnographic observation (in-person and digital)</li>
 	<li>Upcoming training: Python for text analysis, OCR (Optical Character Recognition), HTR (Handwritten Text Recognition), IIIF (International Image Interoperability Framework), Visual AI</li>
 </ul>
 
