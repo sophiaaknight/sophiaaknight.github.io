@@ -9,7 +9,7 @@ tag:
 - Python
 - Word Embeddings
 image: /assets/images/SICSS1.jpg
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: A Computational Literary Analysis of 'Dream of the Red Chamber'
@@ -17,11 +17,12 @@ category: project
 author: Sophia
 externalLink: false
 ---
-
-![Presentation](/assets/images/SICSSpres.jpg)
+![Presentation](/assets/images/SICSS1.jpg)
 
 In June 2022, I participated in the Edinburgh [Summer Institute in Computational Social Science](https://sicss.io/2022/edinburgh/). This consisted of sixteen workshops of training in current research, ongoing debates and the latest methods within this emerging field, bringing together [scholars and participants](https://sicss.io/2022/edinburgh/people) from across disciplines, including Computer Science, Informatics, Humanities and Social Sciences.
 
 For the final group project, [Huang Huichao](https://www.linkedin.com/in/huichao-huang-280b34228/) and myself used a combination of Named Entity Recognition and Word Embeddings to tell the story of 'Dream of the Red Chamber', a classical Chinese novel by Cao Xueqin. As Huichao unfortunately fell ill in the final days of SICSS, I produced the simplified visualisations for the slides and led the presentation. 
 
 ![Example of Analysis](/assets/images/SICSS2.jpg)
+
+![Sophia Presenting](/assets/images/SICSSpres.jpg)
