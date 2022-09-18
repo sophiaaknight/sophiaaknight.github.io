@@ -2,7 +2,12 @@
 title: "SICSS-Edinburgh 2022 Group Project"
 layout: post
 date: 2022-06-24 19:44
-tag: NER, NLP, R, Python, Word Embeddings
+tag: 
+- NER
+- NLP
+- R
+- Python
+- Word Embeddings
 image: /assets/images/SICSS1.jpg
 headerImage: true
 projects: true
