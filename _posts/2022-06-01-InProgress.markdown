@@ -4,7 +4,7 @@ layout: post
 date: 2022-06-24 19:44
 tag:
 image: /assets/images/SICSS1.jpg
-headerImage: true
+headerImage: false
 projects: true
 category: project
 author: Sophia
