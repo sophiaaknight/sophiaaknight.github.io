@@ -1,19 +1,14 @@
 ---
-title: "SICSS-Edinburgh 2022 Group Project"
+title: "In Progress"
 layout: post
 date: 2022-06-24 19:44
 tag:
-- wordembeddings
-- NLP
-- R
-- python
-- NER
 image: /assets/images/SICSS1.jpg
 headerImage: true
 projects: true
 category: project
 author: Sophia
-description: A Computational Literary Analysis of 'Dream of the Red Chamber'
+description: In Progress
 ---
 
 ## Basic formatting
