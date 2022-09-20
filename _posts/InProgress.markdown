@@ -1,7 +1,7 @@
 ---
 title: "In Progress"
 layout: post
-date: 2022-06-24 19:44
+date: 
 tag:
 image: /assets/images/SICSS1.jpg
 headerImage: false
