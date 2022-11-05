@@ -1,9 +1,9 @@
 # main text of home
 title: Sophia Knight
-bio: Recent Graduate in MSc Digital Sociology at the University of Edinburgh
+bio: Researcher at the Centre for the Analysis of Social Media at Demos
 
 # twitter summary info
-description: Recent Graduate in MSc Digital Sociology at the University of Edinburgh
+description: Researcher at the Centre for the Analysis of Social Media at Demos
 
 # if it's an external image, update below for true
 # better with square images
@@ -35,11 +35,11 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-#twitter: mytwitter
+twitter: sophia_a_knight
 #instagram: myinstagram
 linkedin: sophia-anne-knight/
 github: sophiaaknight
-email: sophia.anne.knight@gmail.com
+email: sophia.knight@demos.co.uk
 
 #authors:
  # johndoe:
